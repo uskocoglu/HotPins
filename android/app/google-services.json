@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "422104296007",
+    "project_id": "hotpins-b8898",
+    "storage_bucket": "hotpins-b8898.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422104296007:android:913ed75caf72b254a6df62",
+        "android_client_info": {
+          "package_name": "com.example.hotpins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422104296007-e9j5er66qfqo7bn7o9omb09tg96nbvgk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hotpins",
+            "certificate_hash": "d5cb8694604c542217b77bfca6f78ced2f0d911f"
+          }
+        },
+        {
+          "client_id": "422104296007-7j0fv2pmara4p25h09is6h66gar2jl68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFDd9rKQ_yHCThYsY7-WuzcS4ySUyTsG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422104296007-7j0fv2pmara4p25h09is6h66gar2jl68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
